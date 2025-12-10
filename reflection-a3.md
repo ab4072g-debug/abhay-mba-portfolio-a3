@@ -1,4 +1,4 @@
-# Reflection (Assignment 3): Evolving use of LLMs (300 to 500 words)
+# Reflection (Assignment 3): Evolving use of LLMs 
 
 As I expanded my portfolio from a single-page website to a multi-page site, I changed how I used a large language model (LLM). In Assignment 1, the LLM was most helpful for creating an initial outline and sample language. In Assignment 3, the biggest value was in planning and structure. I used the LLM to brainstorm a complete site map with multiple pages, propose a consistent layout for each page, and suggest Quarto features that can improve readability. This reduced the time needed to move from an empty project to a clear multi-page plan.
 
