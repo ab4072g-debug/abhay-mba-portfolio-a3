@@ -1,0 +1,131 @@
+---
+title: "Resume"
+toc: false
+page-layout: full
+---
+
+::: {.columns}
+::: {.column width="65%"}
+
+# Abhay Partap Thakur
+
+**MBA Candidate | Strategy | Business Analytics | Corporate Ethics**
+
+I am an MBA candidate at **University Canada West (Vancouver, BC)** with experience across customer-facing operations, accounting support, and business execution. I focus on improving service quality, strengthening day-to-day operations, and turning business challenges into clear priorities and measurable outcomes.
+
+::: {.button-row}
+[Open PDF Resume](assets/resume.pdf){target="_blank" .btn .btn-primary}
+[Email](mailto:ab4072g@gmail.com){.btn .btn-outline-secondary}
+[LinkedIn](https://www.linkedin.com/in/abhay-thakur-9a36b7345/){target="_blank" .btn .btn-outline-secondary}
+:::
+
+:::
+
+::: {.column width="35%"}
+
+::: {.callout-tip appearance="simple"}
+## Contact
+
+- **Email:** [ab4072g@gmail.com](mailto:ab4072g@gmail.com)  
+- **LinkedIn:** [abhay-thakur-9a36b7345](https://www.linkedin.com/in/abhay-thakur-9a36b7345/)  
+- **Location:** Greater Vancouver, BC (Surrey)  
+:::
+
+:::
+:::
+
+---
+
+## Education
+
+**University Canada West (MBA), Vancouver, BC**  
+2024 to Present (Expected 2025)  
+Focus: Strategic Management, Business Analytics, Corporate Ethics
+
+**Punjab University, India (Commerce and Business Accountancy)**  
+2020 to 2023
+
+**Marketing Management (Certificate/Diploma)**  
+2024
+
+---
+
+## Experience
+
+### Sales Representative (Part-Time) | Phone Stop | Delta, BC  
+Oct 2024 to Mar 2025  
+- Assisted customers and explained products and service plans clearly.  
+- Handled cash register tasks and supported accurate transaction processing.  
+- Maintained a professional, service-focused experience in a fast-paced environment.
+
+### Assistant Accountant (Part-Time) | CA Firm | Chandigarh, India  
+Jan 2024 to Jul 2024  
+- Prepared journal entries and processed invoices to support accurate financial records.  
+- Performed account reconciliations and supported periodic reporting preparation.  
+- Contributed to budgeting inputs and quarterly forecast support.
+
+### Cashier (Part-Time) | DMART | Chandigarh, India  
+Feb 2023 to Dec 2023  
+- Managed customer transactions and ensured accurate billing and pricing.  
+- Supported complaint resolution and handled returns and exchanges.  
+- Maintained speed and accuracy during peak hours.
+
+### Customer Support and Operations | Infosys | Chandigarh, India  
+Aug 2022 to Apr 2023  
+- Answered client and customer questions about website and service usage.  
+- Processed orders and supported issue resolution through structured follow-up.  
+- Escalated complex cases appropriately to reduce repeat contacts.
+
+### Hospitality and Operations (Hybrid) | Vidya Homes Motel | Chandigarh, India  
+Jan 2022 to Dec 2024  
+- Supported hospitality service delivery and handled operational issues as needed.  
+- Assisted with advertising and room sales activities to support occupancy.  
+- Maintained customer service standards and ensured timely resolution of issues.
+
+---
+
+## Entrepreneurship and Leadership
+
+### Founder and CEO | Zency Kicks  
+2022 to Present  
+- Built a sustainable footwear brand with a focus on ethical sourcing and customer experience.  
+- Led day-to-day decisions across operations, branding, and marketing execution.  
+- Advanced CSR planning and community-oriented initiatives.
+
+### Owner and CEO | Family Restaurant Business  
+2019 to Present  
+- Oversaw daily operations, staffing, and service quality.  
+- Implemented process improvements to strengthen customer experience and efficiency.  
+- Supported profitability through operational discipline and consistent service standards.
+
+---
+
+## Skills
+
+::: {.columns}
+::: {.column width="50%"}
+**Business and Professional**
+- Interpersonal communication
+- Customer service and sales support
+- Relationship management
+- Recruiting and teamwork
+- Coaching and people support
+- Inventory management
+:::
+
+::: {.column width="50%"}
+**Tools and Systems**
+- MS Office (Word, Excel, PowerPoint)
+- Microsoft Access
+- Office technology systems
+- PeopleSoft (basic exposure)
+- Technical support fundamentals
+:::
+:::
+
+---
+
+## References
+
+Available upon request.
+

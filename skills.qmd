@@ -1,0 +1,72 @@
+---
+title: "Skills"
+page-layout: article
+toc: false
+---
+
+## Capabilities, tools, and evidence of use
+
+### Strategy and business fundamentals {.abt-h3}
+
+::: {.abt-card}
+- Problem framing and prioritization (turning broad goals into clear decisions).
+- Market and competitor thinking (positioning, differentiation, customer needs).
+- Business development and basic branding support (customer value, messaging, execution).
+- Ethics and CSR planning (stakeholder awareness, practical responsible practices).
+- Operational improvement mindset (process clarity, measurement, follow-through).
+
+**Evidence of use:** One-page recommendations, structured plans, and decision summaries that translate analysis into next steps.
+:::
+
+### Analytics and decision support {.abt-h3}
+
+::: {.abt-card}
+- Spreadsheet analysis for business questions (cleaning data, organizing outputs, clear assumptions).
+- Forecasting fundamentals for decision use (seasonality awareness, scenario comparison, practical error checks).
+- KPI thinking (selecting measures that reflect performance and can be acted on).
+- Documentation habits (assumptions, data definitions, and decision rationale).
+
+**Tools used in this portfolio:** Quarto (Markdown), GitHub Pages publishing, basic HTML/CSS customization for readability.
+:::
+
+### Finance and accounting operations {.abt-h3}
+
+::: {.abt-card}
+- Journal entries and invoice processing with supporting documentation.
+- Account reconciliations to ensure accurate financial records.
+- Budgeting inputs and quarterly forecast support.
+- Reporting preparation with attention to accuracy and completeness.
+
+**Evidence of use:** Reconciliation notes, organized records, and consistent processing workflows that reduce rework.
+:::
+
+### Customer experience and operations {.abt-h3}
+
+::: {.abt-card}
+- Customer communication and service problem solving.
+- Transaction accuracy and cash register handling.
+- Complaint handling and issue resolution with a calm, professional approach.
+- Day-to-day operational support across fast-paced environments.
+
+**Evidence of use:** Clear explanations, reliable execution, and consistent follow-through under time pressure.
+:::
+
+### Communication and leadership {.abt-h3}
+
+::: {.abt-card}
+- Clear written communication (structured summaries, concise bullet points, practical recommendations).
+- Cross-cultural communication and teamwork.
+- Coaching and supportive collaboration.
+- Reliability and ownership (taking responsibility for outcomes and follow-up).
+
+**Evidence of use:** Organized work products and consistent collaboration across roles in customer-facing and operations settings.
+:::
+
+### Education focus {.abt-h3}
+
+::: {.abt-card}
+- MBA (University Canada West): Strategic management, business analytics, corporate ethics.
+- Bachelor of Commerce (Punjab University): Accounting, marketing, entrepreneurship foundations.
+
+**Note:** This page lists skills in a way that matches how they show up in real work: decision framing, execution, and communication.
+:::

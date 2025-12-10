@@ -1,0 +1,53 @@
+---
+title: "Home"
+---
+
+::: {.grid .align-items-start .g-4}
+::: {.g-col-12 .g-col-md-4}
+
+![](images/headshot.png){fig-alt="Professional headshot of Abhay Partap Thakur" width=320 .abt-headshot}
+
+::: {.abt-card}
+### Contact
+- **Email:** [ab4072g@gmail.com](mailto:ab4072g@gmail.com)
+- **LinkedIn:** <https://www.linkedin.com/in/abhay-thakur-9a36b7345/>
+- **Location:** Surrey, BC (Greater Vancouver)
+:::
+
+::: {.abt-card}
+### Core strengths
+- Clear communication and customer focus
+- Structured, practical problem solving
+- Finance and accounting support fundamentals
+- Reliable execution and follow-through
+:::
+
+:::
+
+::: {.g-col-12 .g-col-md-8}
+
+# Abhay Partap Thakur
+
+<span class="abt-muted">MBA Candidate. Strategy. Business Analytics. Corporate Ethics.</span>
+
+## About
+I am an MBA candidate at **University Canada West** with a background across customer-facing operations, finance and accounting support, and business execution. I enjoy translating day-to-day business challenges into clear priorities, simple processes, and measurable outcomes.
+
+My goal is to build a career in a dynamic environment where I can combine strong communication with analytical thinking to support decision-making, improve service quality, and drive sustainable growth.
+
+::: {.abt-divider} :::
+
+## What you will find on this site
+- **Resume:** a scannable overview of education and experience, plus a PDF you can open.
+- **Projects:** short case studies showing how I approach business problems.
+- **Skills:** a categorized inventory of tools and capabilities with practical proof points.
+- **Leadership:** how I collaborate, support teams, and take responsibility.
+- **Contact:** the fastest way to connect.
+
+::: {.callout-tip}
+## Quick start
+If you are reviewing me for a role, start with the Resume page, then open the Projects page to see examples of decision-making and execution.
+:::
+
+:::
+:::

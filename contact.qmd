@@ -1,0 +1,19 @@
+---
+title: "Contact"
+toc: false
+---
+
+## Get in touch
+The best way to reach me is email or LinkedIn.
+
+::: {.abt-card}
+- **Email:** [ab4072g@gmail.com](mailto:ab4072g@gmail.com)  
+- **LinkedIn:** <https://www.linkedin.com/in/abhay-thakur-9a36b7345/>  
+- **Location:** Surrey, BC (Greater Vancouver)  
+:::
+
+## Suggested message format
+If you are reaching out about a role or collaboration, please include:
+- the role, team, or project name,
+- your timeline,
+- and what you would like as the next step (intro call, resume review, or discussion of a case study).

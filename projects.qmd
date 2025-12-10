@@ -1,0 +1,105 @@
+---
+title: "Projects"
+page-layout: article
+toc: false
+---
+
+## Selected case studies and work highlights
+
+### MBA Case Study: Trendy Tees Time Series Forecasting {.abt-h3}
+
+::: {.abt-card}
+**Category:** Business analytics (forecasting)
+
+**Situation:** Inventory and demand planning required stronger forecasting to reduce stockouts and overstock.
+
+**Objective:** Create a decision-ready sales forecast summary to support inventory planning and profitability.
+
+**Approach**
+- Cleaned and organized historical sales data and clarified assumptions.
+- Compared multiple forecasting approaches using practical error checks.
+- Translated model outputs into business recommendations for reorder planning.
+
+**Deliverables**
+- Forecast summary with assumptions, drivers, and key risks.
+- Recommendations for inventory planning and simple monitoring steps.
+
+**Result:** Produced a forecast summary and an action-oriented recommendation memo suitable for decision making.
+
+**Takeaway:** Forecasts are most useful when they are operational and explainable, not only statistically accurate.
+:::
+
+### Ethics and CSR Report: Zency Kicks {.abt-h3}
+
+::: {.abt-card}
+**Category:** Corporate ethics and CSR
+
+**Situation:** Customers and stakeholders increasingly expect ethical sourcing and transparent business practices in footwear.
+
+**Objective:** Define practical CSR priorities aligned with brand positioning and day-to-day operations.
+
+**Approach**
+- Identified key stakeholders (customers, suppliers, community, employees) and their expectations.
+- Chose a small set of CSR priorities that can be measured and executed.
+- Outlined a communication plan that is honest about progress and constraints.
+
+**Deliverables**
+- CSR strategy outline with priorities, metrics, and ownership.
+- Action plan for sourcing transparency and responsible supplier standards.
+
+**Result:** Produced a clear CSR plan that can be implemented in phases and reported consistently.
+
+**Takeaway:** CSR works best when it is specific, measurable, and built into routine decisions.
+:::
+
+### Accounting and Reporting Support: CA Firm Experience {.abt-h3}
+
+::: {.abt-card}
+**Category:** Finance and accounting operations
+
+**Situation:** Accurate bookkeeping and reconciliations are essential for reliable reporting and budgeting.
+
+**Objective:** Support invoice processing, reconciliations, and reporting preparation with a focus on accuracy and timeliness.
+
+**Approach**
+- Prepared journal entries and processed invoices with attention to supporting documentation.
+- Completed account reconciliations to reduce errors and rework.
+- Contributed to budgeting inputs and quarterly forecast support.
+
+**Deliverables**
+- Organized documentation for entries and invoice records.
+- Reconciliation notes and follow-up items for exceptions.
+
+**Result:** Improved the completeness and consistency of routine accounting workflows used for reporting.
+
+**Takeaway:** Simple documentation and repeatable checks reduce errors and strengthen trust in financial outputs.
+:::
+
+### Customer Service and Sales Execution: Phone Stop (Part-Time) {.abt-h3}
+
+::: {.abt-card}
+**Category:** Customer experience and sales operations
+
+**Situation:** Customers need clear explanations to choose the right products and plans.
+
+**Objective:** Provide high-quality customer support while maintaining accurate transactions.
+
+**Approach**
+- Explained products and service plans in a simple, customer-friendly way.
+- Supported cash register operations and accurate transaction processing.
+- Maintained a professional, helpful tone while handling routine questions.
+
+**Deliverables**
+- Clear product explanations and service recommendations.
+- Consistent checkout support and accurate handling of transactions.
+
+**Result:** Helped customers make informed choices and supported smooth daily store operations.
+
+**Takeaway:** Clarity and patience are core drivers of customer trust and repeat business.
+:::
+
+---
+
+<div class="abt-page-note">
+Portfolio case studies are written to demonstrate decision-making structure and transferable skills. Any sensitive or proprietary details are excluded.
+</div>

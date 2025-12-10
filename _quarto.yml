@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Abhay Partap Thakur"
+  search: false
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: resume.qmd
+        text: Resume
+      - href: projects.qmd
+        text: Projects
+      - href: skills.qmd
+        text: Skills
+      - href: leadership.qmd
+        text: Leadership
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/abhay-thakur-9a36b7345/
+        aria-label: LinkedIn
+      - icon: envelope
+        href: mailto:ab4072g@gmail.com
+        aria-label: Email
+
+  page-footer:
+    left: "Appendix: [LLM drafts, annotations, and reflection](appendix.html)"
+    right: "Built with Quarto. Content reviewed and edited by Abhay Partap Thakur."
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
