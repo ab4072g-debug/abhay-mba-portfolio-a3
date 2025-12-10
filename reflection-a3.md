@@ -8,7 +8,5 @@ As the site grew, usability became more important. I tested navigation and layou
 
 Overall, adding pages improved the portfolio by separating content into focused sections and allowing deeper detail without overcrowding one page. The LLM helped me plan efficiently, and my reviewing and editing ensured the final site is professional, accurate, and in my own voice.
 
-## Sources and tools (transparency)
-- Quarto documentation (website and markdown features)
+## Sources
 - ChatGPT (LLM) for planning and draft assistance
-- APA Style resources (citation guidance, when needed)
